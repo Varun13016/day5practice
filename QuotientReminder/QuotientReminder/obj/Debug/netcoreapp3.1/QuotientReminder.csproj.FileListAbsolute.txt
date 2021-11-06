@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.exe
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.deps.json
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.dll
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\bin\Debug\netcoreapp3.1\QuotientReminder.pdb
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.dll
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.pdb
+C:\Users\VARUN KUMAR\source\repos\QuotientReminder\QuotientReminder\obj\Debug\netcoreapp3.1\QuotientReminder.genruntimeconfig.cache

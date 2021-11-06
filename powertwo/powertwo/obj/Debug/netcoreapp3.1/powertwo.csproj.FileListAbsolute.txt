@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.exe
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.deps.json
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.dll
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\bin\Debug\netcoreapp3.1\powertwo.pdb
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.dll
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.pdb
+C:\Users\VARUN KUMAR\source\repos\day5\powertwo\powertwo\obj\Debug\netcoreapp3.1\powertwo.genruntimeconfig.cache
